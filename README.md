@@ -1,7 +1,6 @@
 ````markdown
 # 🚦 Smart Traffic Manager
-[![Visit Website](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=netlify)]([https://smarttrafficmanager.netlify.app/])
-
+[![Live Site](https://img.shields.io/badge/Live%20Demo-View%20Now-blue?style=for-the-badge&logo=netlify)](https://smarttrafficmanager.netlify.app)
 
 
 **A real‑time, AI‑powered dashboard to monitor and optimize urban traffic flow.**
