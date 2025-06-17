@@ -2,6 +2,10 @@
 # 🚦 Smart Traffic Manager
 [![Live Site](https://img.shields.io/badge/Live%20Demo-View%20Now-blue?style=for-the-badge&logo=netlify)](https://smarttrafficmanager.netlify.app)
 
+## 🌐 Live Website
+
+Check out the live version of our Smart Traffic Manager here:  
+👉 [smarttrafficmanager.netlify.app](https://smarttrafficmanager.netlify.app)
 
 **A real‑time, AI‑powered dashboard to monitor and optimize urban traffic flow.**
 
