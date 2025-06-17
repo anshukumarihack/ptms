@@ -1,5 +1,7 @@
 ````markdown
-# 🚦 Smart Traffic Manager [https://smarttrafficmanager.netlify.app/]
+# 🚦 Smart Traffic Manager
+Visit the live site: [Smart Traffic Manager](https://smarttrafficmanager.netlify.app)
+
 
 **A real‑time, AI‑powered dashboard to monitor and optimize urban traffic flow.**
 
