@@ -1,4 +1,3 @@
-````markdown
 # 🚦 Smart Traffic Manager
 [![Live Site](https://img.shields.io/badge/Live%20Demo-View%20Now-blue?style=for-the-badge&logo=netlify)](https://smarttrafficmanager.netlify.app)
 
@@ -13,7 +12,7 @@
 ![System Status](https://raw.githubusercontent.com/anshukumarihack/ptms/main/Screenshot%202025-06-17%20141431.png)
 
 ### 🔹 Traffic Flow & Vehicle Distribution
-![Traffic Flow](https://raw.githubusercontent.com/anshukumarihack/ptms/main/Screenshot%202025-06-17%20141446.png)
+![Traffic Flow](https://github.com/anshukumarihack/ptms/blob/main/Screenshot%202025-06-17%20141431.png)
 
 ### 🔹 Infrastructure & Route Planner
 ![Route Planner](https://raw.githubusercontent.com/anshukumarihack/ptms/main/Screenshot%202025-06-17%20141504.png)
