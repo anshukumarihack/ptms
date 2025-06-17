@@ -19,7 +19,7 @@ Here are some preview images of the Smart Traffic Monitoring Dashboard:
 ![Traffic Flow Screenshot](./assets/Screenshot-2025-06-17-141446.png)
 
 ### 🔹 Infrastructure & Route Planner
-![Route Planner Screenshot](./assets/Screenshot-2025-06-17-141504.png)
+![Route Planner Screenshot](https://github.com/anshukumarihack/ptms/blob/main/Screenshot%202025-06-17%20141431.png)
 
 **A real‑time, AI‑powered dashboard to monitor and optimize urban traffic flow.**
 
