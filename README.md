@@ -4,22 +4,18 @@
 
 ## 🌐 Live Website
 
-# 🚦 Smart Traffic Monitoring System
-
 🔗 **Live Demo**: [https://smarttrafficmanager.netlify.app](https://smarttrafficmanager.netlify.app)
 
-## 📸 Sample Screenshots
+## 📸 Website Sample Screenshots
 
-Here are some preview images of the Smart Traffic Monitoring Dashboard:
-
-### 🔹 Dashboard Overview
-![Dashboard Screenshot](./assets/Screenshot-2025-06-17-141431.png)
+### 🔹 System Status Dashboard
+![Dashboard Screenshot](https://github.com/anshukumarihack/ptms/raw/main/Screenshot%202025-06-17%20141431.png)
 
 ### 🔹 Traffic Flow & Vehicle Distribution
-![Traffic Flow Screenshot](./assets/Screenshot-2025-06-17-141446.png)
+![Traffic Screenshot](https://github.com/anshukumarihack/ptms/raw/main/Screenshot%202025-06-17%20141446.png)
 
-### 🔹 Infrastructure & Route Planner
-![Route Planner Screenshot](https://github.com/anshukumarihack/ptms/blob/main/Screenshot%202025-06-17%20141431.png)
+### 🔹 Route Planner and Infrastructure Overview
+![Route Planner Screenshot](https://github.com/anshukumarihack/ptms/raw/main/Screenshot%202025-06-17%20141504.png)
 
 **A real‑time, AI‑powered dashboard to monitor and optimize urban traffic flow.**
 
