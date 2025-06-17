@@ -1,6 +1,6 @@
 ````markdown
 # 🚦 Smart Traffic Manager
-[![Visit Website](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=netlify)](https://smarttrafficmanager.netlify.app)
+[![Visit Website](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=netlify)](https://smarttrafficmanager.netlify.app/)
 
 
 
